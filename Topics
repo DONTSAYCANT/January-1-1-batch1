@@ -1,30 +1,30 @@
 Basic python (20-25 days) 
 
-Introduction to python
-Python / programming basic (variable/datatype/Data strucutre)
-Writing basic pgms
-String Indexing and slicing
-Data structures in python (list/tuple/set/Dictionary)
-Data structure method
-Conditional stmt
-Loops (while for )
-Functions in python
+Introduction to python (completed)
+Python / programming basic (variable/datatype/Data strucutre) (completed)
+Writing basic pgms (completed)
+String Indexing and slicing (completed)
+Data structures in python (list/tuple/set/Dictionary) (completed)
+Data structure method (completed)
+Conditional stmt (completed)
+Loops (while for ) (completed)
+Functions in python (completed)
 
 Miniproject and project1 
-Test1 (50 marks) 
+Test1 (50 marks)  (mini project + project1 + 75 pgms from geeksforgeeks (https://www.geeksforgeeks.org/python-programming-examples/) + 200 points hacker rank)
 
 Medium level (15 - 20 days)
 
-Anonymous functions
-Comprehensions 
-Modules in python 
-Collections module
-File handling 
-Exception Handling  
-OS and sys module
-Datetime module
-Regular expression
-itertools module
+Anonymous functions (Jan 27)
+Comprehensions  (Jan 27)
+Modules in python  (completed)
+Collections module (Jan 27)
+File handling (Jan 27)
+Exception Handling  (completed)
+OS and sys module (Jan 27)
+Datetime module (Jan 27)
+Regular expression (Jan 28)
+itertools module (Jan 27)
 
 Project2
 Test2 
